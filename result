@@ -1,0 +1,566 @@
+bf.arm.output
+bitcnts.arm.output
+cjpeg.arm.output
+crc.arm.output
+dijkstra_large.arm.output
+dijkstra_small.arm.output
+djpeg.arm.output
+fft.arm.output
+gs.arm.output
+ispell.arm.output
+lame.arm.output
+madplay.arm.output
+math_large.arm.output
+math_small.arm.output
+patricia.arm.output
+pgp.arm.output
+qsort_large.arm.output
+qsort_small.arm.output
+rawcaudio.arm.output
+rawdaudio.arm.output
+rijndael.arm.output
+say.arm.output
+toast.arm.output
+untoast.arm.output
+data/bf.arm.output data/bitcnts.arm.output data/cjpeg.arm.output data/crc.arm.output data/dijkstra_large.arm.output data/dijkstra_small.arm.output data/djpeg.arm.output data/fft.arm.output data/gs.arm.output data/ispell.arm.output data/lame.arm.output data/madplay.arm.output data/math_large.arm.output data/math_small.arm.output data/patricia.arm.output data/pgp.arm.output data/qsort_large.arm.output data/qsort_small.arm.output data/rawcaudio.arm.output data/rawdaudio.arm.output data/rijndael.arm.output data/say.arm.output data/toast.arm.output data/untoast.arm.output
+start 
+total num : 47660 differentNum : 13306
+[1] page count (descent order) (4KB) : 26901
+[2] page count (descent order) (4KB) : 5209
+[3] page count (descent order) (4KB) : 3274
+[4] page count (descent order) (4KB) : 2102
+[5] page count (descent order) (4KB) : 1988
+[6] page count (descent order) (4KB) : 1024
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 64975 differentNum : 16188
+[1] page count (descent order) (4KB) : 36065
+[2] page count (descent order) (4KB) : 7189
+[3] page count (descent order) (4KB) : 4245
+[4] page count (descent order) (4KB) : 3047
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1313
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 74663 differentNum : 18134
+[1] page count (descent order) (4KB) : 41372
+[2] page count (descent order) (4KB) : 7881
+[3] page count (descent order) (4KB) : 4633
+[4] page count (descent order) (4KB) : 3278
+[5] page count (descent order) (4KB) : 2418
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 2048
+[8] page count (descent order) (4KB) : 1043
+start 
+total num : 46652 differentNum : 13135
+[1] page count (descent order) (4KB) : 26360
+[2] page count (descent order) (4KB) : 5104
+[3] page count (descent order) (4KB) : 3227
+[4] page count (descent order) (4KB) : 2053
+[5] page count (descent order) (4KB) : 1893
+[6] page count (descent order) (4KB) : 1024
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 60037 differentNum : 15095
+[1] page count (descent order) (4KB) : 33559
+[2] page count (descent order) (4KB) : 6774
+[3] page count (descent order) (4KB) : 3976
+[4] page count (descent order) (4KB) : 2800
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1929
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 60037 differentNum : 15096
+[1] page count (descent order) (4KB) : 33559
+[2] page count (descent order) (4KB) : 6774
+[3] page count (descent order) (4KB) : 3976
+[4] page count (descent order) (4KB) : 2800
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1928
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 77708 differentNum : 19196
+[1] page count (descent order) (4KB) : 42150
+[2] page count (descent order) (4KB) : 8137
+[3] page count (descent order) (4KB) : 4796
+[4] page count (descent order) (4KB) : 3431
+[5] page count (descent order) (4KB) : 2635
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 2048
+[8] page count (descent order) (4KB) : 1459
+start 
+total num : 48498 differentNum : 13849
+[1] page count (descent order) (4KB) : 26905
+[2] page count (descent order) (4KB) : 5263
+[3] page count (descent order) (4KB) : 3312
+[4] page count (descent order) (4KB) : 2172
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1093
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 271634 differentNum : 53190
+[1] page count (descent order) (4KB) : 131388
+[2] page count (descent order) (4KB) : 25121
+[3] page count (descent order) (4KB) : 15051
+[4] page count (descent order) (4KB) : 10663
+[5] page count (descent order) (4KB) : 8124
+[6] page count (descent order) (4KB) : 6621
+[7] page count (descent order) (4KB) : 5599
+[8] page count (descent order) (4KB) : 4831
+start 
+total num : 60182 differentNum : 16642
+[1] page count (descent order) (4KB) : 32866
+[2] page count (descent order) (4KB) : 6179
+[3] page count (descent order) (4KB) : 3726
+[4] page count (descent order) (4KB) : 2766
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1075
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 414803 differentNum : 74533
+[1] page count (descent order) (4KB) : 210147
+[2] page count (descent order) (4KB) : 35514
+[3] page count (descent order) (4KB) : 21057
+[4] page count (descent order) (4KB) : 14714
+[5] page count (descent order) (4KB) : 11154
+[6] page count (descent order) (4KB) : 8892
+[7] page count (descent order) (4KB) : 7490
+[8] page count (descent order) (4KB) : 6337
+start 
+total num : 74595 differentNum : 20256
+[1] page count (descent order) (4KB) : 38533
+[2] page count (descent order) (4KB) : 7658
+[3] page count (descent order) (4KB) : 4632
+[4] page count (descent order) (4KB) : 3429
+[5] page count (descent order) (4KB) : 2718
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 2048
+[8] page count (descent order) (4KB) : 1465
+start 
+total num : 51777 differentNum : 14915
+[1] page count (descent order) (4KB) : 28173
+[2] page count (descent order) (4KB) : 5509
+[3] page count (descent order) (4KB) : 3443
+[4] page count (descent order) (4KB) : 2390
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1443
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 51629 differentNum : 14854
+[1] page count (descent order) (4KB) : 28113
+[2] page count (descent order) (4KB) : 5490
+[3] page count (descent order) (4KB) : 3442
+[4] page count (descent order) (4KB) : 2394
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1432
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 60867 differentNum : 15249
+[1] page count (descent order) (4KB) : 33997
+[2] page count (descent order) (4KB) : 6829
+[3] page count (descent order) (4KB) : 4018
+[4] page count (descent order) (4KB) : 2840
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2030
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 103108 differentNum : 26333
+[1] page count (descent order) (4KB) : 53335
+[2] page count (descent order) (4KB) : 9887
+[3] page count (descent order) (4KB) : 6029
+[4] page count (descent order) (4KB) : 4289
+[5] page count (descent order) (4KB) : 3306
+[6] page count (descent order) (4KB) : 2804
+[7] page count (descent order) (4KB) : 2048
+[8] page count (descent order) (4KB) : 2048
+start 
+total num : 63002 differentNum : 16072
+[1] page count (descent order) (4KB) : 34701
+[2] page count (descent order) (4KB) : 6984
+[3] page count (descent order) (4KB) : 4149
+[4] page count (descent order) (4KB) : 2976
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1192
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 59742 differentNum : 15019
+[1] page count (descent order) (4KB) : 33436
+[2] page count (descent order) (4KB) : 6741
+[3] page count (descent order) (4KB) : 3952
+[4] page count (descent order) (4KB) : 2784
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1906
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 46647 differentNum : 13194
+[1] page count (descent order) (4KB) : 26293
+[2] page count (descent order) (4KB) : 5105
+[3] page count (descent order) (4KB) : 3229
+[4] page count (descent order) (4KB) : 2055
+[5] page count (descent order) (4KB) : 1891
+[6] page count (descent order) (4KB) : 1024
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 46643 differentNum : 13190
+[1] page count (descent order) (4KB) : 26292
+[2] page count (descent order) (4KB) : 5107
+[3] page count (descent order) (4KB) : 3229
+[4] page count (descent order) (4KB) : 2053
+[5] page count (descent order) (4KB) : 1892
+[6] page count (descent order) (4KB) : 1024
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 49776 differentNum : 13928
+[1] page count (descent order) (4KB) : 27511
+[2] page count (descent order) (4KB) : 5478
+[3] page count (descent order) (4KB) : 3416
+[4] page count (descent order) (4KB) : 2299
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 1240
+[7] page count (descent order) (4KB) : 1024
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 71216 differentNum : 18428
+[1] page count (descent order) (4KB) : 37979
+[2] page count (descent order) (4KB) : 7737
+[3] page count (descent order) (4KB) : 4563
+[4] page count (descent order) (4KB) : 3225
+[5] page count (descent order) (4KB) : 2411
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1993
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 60287 differentNum : 16353
+[1] page count (descent order) (4KB) : 32407
+[2] page count (descent order) (4KB) : 6563
+[3] page count (descent order) (4KB) : 3974
+[4] page count (descent order) (4KB) : 2899
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1163
+[8] page count (descent order) (4KB) : 1024
+start 
+total num : 60287 differentNum : 16353
+[1] page count (descent order) (4KB) : 32407
+[2] page count (descent order) (4KB) : 6563
+[3] page count (descent order) (4KB) : 3974
+[4] page count (descent order) (4KB) : 2899
+[5] page count (descent order) (4KB) : 2048
+[6] page count (descent order) (4KB) : 2048
+[7] page count (descent order) (4KB) : 1163
+[8] page count (descent order) (4KB) : 1024
+[0] [1] match num : 793 on 2 page
+[0] [2] match num : 762 on 2 page
+[0] [3] match num : 947 on 2 page
+[0] [4] match num : 799 on 2 page
+[0] [5] match num : 800 on 2 page
+[0] [6] match num : 755 on 2 page
+[0] [7] match num : 940 on 2 page
+[0] [8] match num : 543 on 2 page
+[0] [9] match num : 878 on 2 page
+[0] [10] match num : 509 on 2 page
+[0] [11] match num : 793 on 2 page
+[0] [12] match num : 922 on 2 page
+[0] [13] match num : 928 on 2 page
+[0] [14] match num : 798 on 2 page
+[0] [15] match num : 728 on 2 page
+[0] [16] match num : 785 on 2 page
+[0] [17] match num : 798 on 2 page
+[0] [18] match num : 944 on 2 page
+[0] [19] match num : 950 on 2 page
+[0] [20] match num : 918 on 2 page
+[0] [21] match num : 752 on 2 page
+[0] [22] match num : 587 on 2 page
+[0] [23] match num : 587 on 2 page
+[1] [2] match num : 892 on 2 page
+[1] [3] match num : 797 on 2 page
+[1] [4] match num : 939 on 2 page
+[1] [5] match num : 938 on 2 page
+[1] [6] match num : 880 on 2 page
+[1] [7] match num : 801 on 2 page
+[1] [8] match num : 549 on 2 page
+[1] [9] match num : 796 on 2 page
+[1] [10] match num : 499 on 2 page
+[1] [11] match num : 802 on 2 page
+[1] [12] match num : 793 on 2 page
+[1] [13] match num : 794 on 2 page
+[1] [14] match num : 938 on 2 page
+[1] [15] match num : 814 on 2 page
+[1] [16] match num : 931 on 2 page
+[1] [17] match num : 940 on 2 page
+[1] [18] match num : 800 on 2 page
+[1] [19] match num : 797 on 2 page
+[1] [20] match num : 788 on 2 page
+[1] [21] match num : 897 on 2 page
+[1] [22] match num : 574 on 2 page
+[1] [23] match num : 574 on 2 page
+[2] [3] match num : 768 on 2 page
+[2] [4] match num : 893 on 2 page
+[2] [5] match num : 892 on 2 page
+[2] [6] match num : 903 on 2 page
+[2] [7] match num : 768 on 2 page
+[2] [8] match num : 573 on 2 page
+[2] [9] match num : 773 on 2 page
+[2] [10] match num : 518 on 2 page
+[2] [11] match num : 801 on 2 page
+[2] [12] match num : 758 on 2 page
+[2] [13] match num : 758 on 2 page
+[2] [14] match num : 893 on 2 page
+[2] [15] match num : 797 on 2 page
+[2] [16] match num : 886 on 2 page
+[2] [17] match num : 892 on 2 page
+[2] [18] match num : 771 on 2 page
+[2] [19] match num : 766 on 2 page
+[2] [20] match num : 758 on 2 page
+[2] [21] match num : 883 on 2 page
+[2] [22] match num : 570 on 2 page
+[2] [23] match num : 570 on 2 page
+[3] [4] match num : 801 on 2 page
+[3] [5] match num : 803 on 2 page
+[3] [6] match num : 763 on 2 page
+[3] [7] match num : 948 on 2 page
+[3] [8] match num : 551 on 2 page
+[3] [9] match num : 883 on 2 page
+[3] [10] match num : 515 on 2 page
+[3] [11] match num : 798 on 2 page
+[3] [12] match num : 921 on 2 page
+[3] [13] match num : 928 on 2 page
+[3] [14] match num : 799 on 2 page
+[3] [15] match num : 737 on 2 page
+[3] [16] match num : 788 on 2 page
+[3] [17] match num : 800 on 2 page
+[3] [18] match num : 948 on 2 page
+[3] [19] match num : 959 on 2 page
+[3] [20] match num : 916 on 2 page
+[3] [21] match num : 756 on 2 page
+[3] [22] match num : 592 on 2 page
+[3] [23] match num : 592 on 2 page
+[4] [5] match num : 998 on 2 page
+[4] [6] match num : 881 on 2 page
+[4] [7] match num : 805 on 2 page
+[4] [8] match num : 539 on 2 page
+[4] [9] match num : 802 on 2 page
+[4] [10] match num : 491 on 2 page
+[4] [11] match num : 800 on 2 page
+[4] [12] match num : 799 on 2 page
+[4] [13] match num : 800 on 2 page
+[4] [14] match num : 969 on 2 page
+[4] [15] match num : 804 on 2 page
+[4] [16] match num : 962 on 2 page
+[4] [17] match num : 971 on 2 page
+[4] [18] match num : 808 on 2 page
+[4] [19] match num : 805 on 2 page
+[4] [20] match num : 799 on 2 page
+[4] [21] match num : 899 on 2 page
+[4] [22] match num : 569 on 2 page
+[4] [23] match num : 569 on 2 page
+[5] [6] match num : 879 on 2 page
+[5] [7] match num : 803 on 2 page
+[5] [8] match num : 536 on 2 page
+[5] [9] match num : 801 on 2 page
+[5] [10] match num : 488 on 2 page
+[5] [11] match num : 795 on 2 page
+[5] [12] match num : 797 on 2 page
+[5] [13] match num : 798 on 2 page
+[5] [14] match num : 966 on 2 page
+[5] [15] match num : 799 on 2 page
+[5] [16] match num : 960 on 2 page
+[5] [17] match num : 974 on 2 page
+[5] [18] match num : 806 on 2 page
+[5] [19] match num : 802 on 2 page
+[5] [20] match num : 799 on 2 page
+[5] [21] match num : 896 on 2 page
+[5] [22] match num : 566 on 2 page
+[5] [23] match num : 566 on 2 page
+[6] [7] match num : 766 on 2 page
+[6] [8] match num : 578 on 2 page
+[6] [9] match num : 768 on 2 page
+[6] [10] match num : 516 on 2 page
+[6] [11] match num : 789 on 2 page
+[6] [12] match num : 759 on 2 page
+[6] [13] match num : 759 on 2 page
+[6] [14] match num : 877 on 2 page
+[6] [15] match num : 794 on 2 page
+[6] [16] match num : 874 on 2 page
+[6] [17] match num : 879 on 2 page
+[6] [18] match num : 765 on 2 page
+[6] [19] match num : 763 on 2 page
+[6] [20] match num : 753 on 2 page
+[6] [21] match num : 865 on 2 page
+[6] [22] match num : 576 on 2 page
+[6] [23] match num : 576 on 2 page
+[7] [8] match num : 554 on 2 page
+[7] [9] match num : 879 on 2 page
+[7] [10] match num : 525 on 2 page
+[7] [11] match num : 806 on 2 page
+[7] [12] match num : 942 on 2 page
+[7] [13] match num : 948 on 2 page
+[7] [14] match num : 804 on 2 page
+[7] [15] match num : 734 on 2 page
+[7] [16] match num : 796 on 2 page
+[7] [17] match num : 801 on 2 page
+[7] [18] match num : 950 on 2 page
+[7] [19] match num : 942 on 2 page
+[7] [20] match num : 920 on 2 page
+[7] [21] match num : 770 on 2 page
+[7] [22] match num : 589 on 2 page
+[7] [23] match num : 589 on 2 page
+[8] [9] match num : 559 on 2 page
+[8] [10] match num : 537 on 2 page
+[8] [11] match num : 573 on 2 page
+[8] [12] match num : 559 on 2 page
+[8] [13] match num : 559 on 2 page
+[8] [14] match num : 537 on 2 page
+[8] [15] match num : 558 on 2 page
+[8] [16] match num : 544 on 2 page
+[8] [17] match num : 535 on 2 page
+[8] [18] match num : 549 on 2 page
+[8] [19] match num : 550 on 2 page
+[8] [20] match num : 531 on 2 page
+[8] [21] match num : 554 on 2 page
+[8] [22] match num : 503 on 2 page
+[8] [23] match num : 503 on 2 page
+[9] [10] match num : 545 on 2 page
+[9] [11] match num : 808 on 2 page
+[9] [12] match num : 868 on 2 page
+[9] [13] match num : 871 on 2 page
+[9] [14] match num : 802 on 2 page
+[9] [15] match num : 758 on 2 page
+[9] [16] match num : 789 on 2 page
+[9] [17] match num : 801 on 2 page
+[9] [18] match num : 884 on 2 page
+[9] [19] match num : 886 on 2 page
+[9] [20] match num : 866 on 2 page
+[9] [21] match num : 763 on 2 page
+[9] [22] match num : 602 on 2 page
+[9] [23] match num : 602 on 2 page
+[10] [11] match num : 535 on 2 page
+[10] [12] match num : 526 on 2 page
+[10] [13] match num : 528 on 2 page
+[10] [14] match num : 491 on 2 page
+[10] [15] match num : 552 on 2 page
+[10] [16] match num : 498 on 2 page
+[10] [17] match num : 488 on 2 page
+[10] [18] match num : 516 on 2 page
+[10] [19] match num : 516 on 2 page
+[10] [20] match num : 503 on 2 page
+[10] [21] match num : 510 on 2 page
+[10] [22] match num : 528 on 2 page
+[10] [23] match num : 528 on 2 page
+[11] [12] match num : 812 on 2 page
+[11] [13] match num : 813 on 2 page
+[11] [14] match num : 795 on 2 page
+[11] [15] match num : 747 on 2 page
+[11] [16] match num : 814 on 2 page
+[11] [17] match num : 792 on 2 page
+[11] [18] match num : 801 on 2 page
+[11] [19] match num : 796 on 2 page
+[11] [20] match num : 787 on 2 page
+[11] [21] match num : 801 on 2 page
+[11] [22] match num : 578 on 2 page
+[11] [23] match num : 578 on 2 page
+[12] [13] match num : 987 on 2 page
+[12] [14] match num : 797 on 2 page
+[12] [15] match num : 724 on 2 page
+[12] [16] match num : 811 on 2 page
+[12] [17] match num : 797 on 2 page
+[12] [18] match num : 926 on 2 page
+[12] [19] match num : 926 on 2 page
+[12] [20] match num : 906 on 2 page
+[12] [21] match num : 777 on 2 page
+[12] [22] match num : 578 on 2 page
+[12] [23] match num : 578 on 2 page
+[13] [14] match num : 800 on 2 page
+[13] [15] match num : 726 on 2 page
+[13] [16] match num : 812 on 2 page
+[13] [17] match num : 798 on 2 page
+[13] [18] match num : 933 on 2 page
+[13] [19] match num : 932 on 2 page
+[13] [20] match num : 912 on 2 page
+[13] [21] match num : 779 on 2 page
+[13] [22] match num : 579 on 2 page
+[13] [23] match num : 579 on 2 page
+[14] [15] match num : 801 on 2 page
+[14] [16] match num : 960 on 2 page
+[14] [17] match num : 972 on 2 page
+[14] [18] match num : 806 on 2 page
+[14] [19] match num : 801 on 2 page
+[14] [20] match num : 795 on 2 page
+[14] [21] match num : 896 on 2 page
+[14] [22] match num : 569 on 2 page
+[14] [23] match num : 569 on 2 page
+[15] [16] match num : 800 on 2 page
+[15] [17] match num : 801 on 2 page
+[15] [18] match num : 741 on 2 page
+[15] [19] match num : 736 on 2 page
+[15] [20] match num : 715 on 2 page
+[15] [21] match num : 807 on 2 page
+[15] [22] match num : 589 on 2 page
+[15] [23] match num : 589 on 2 page
+[16] [17] match num : 960 on 2 page
+[16] [18] match num : 793 on 2 page
+[16] [19] match num : 788 on 2 page
+[16] [20] match num : 786 on 2 page
+[16] [21] match num : 916 on 2 page
+[16] [22] match num : 563 on 2 page
+[16] [23] match num : 563 on 2 page
+[17] [18] match num : 805 on 2 page
+[17] [19] match num : 800 on 2 page
+[17] [20] match num : 796 on 2 page
+[17] [21] match num : 894 on 2 page
+[17] [22] match num : 569 on 2 page
+[17] [23] match num : 569 on 2 page
+[18] [19] match num : 963 on 2 page
+[18] [20] match num : 919 on 2 page
+[18] [21] match num : 760 on 2 page
+[18] [22] match num : 590 on 2 page
+[18] [23] match num : 590 on 2 page
+[19] [20] match num : 915 on 2 page
+[19] [21] match num : 756 on 2 page
+[19] [22] match num : 592 on 2 page
+[19] [23] match num : 592 on 2 page
+[20] [21] match num : 751 on 2 page
+[20] [22] match num : 574 on 2 page
+[20] [23] match num : 574 on 2 page
+[21] [22] match num : 565 on 2 page
+[21] [23] match num : 565 on 2 page
+[22] [23] match num : 1024 on 2 page
+avgFrequencyInFirstPage : 0.522804
+[0] commonmatch num : 781 on 1 page
+[1] commonmatch num : 782 on 1 page
+[2] commonmatch num : 786 on 1 page
+[3] commonmatch num : 790 on 1 page
+[4] commonmatch num : 770 on 1 page
+[5] commonmatch num : 766 on 1 page
+[6] commonmatch num : 787 on 1 page
+[7] commonmatch num : 796 on 1 page
+[8] commonmatch num : 662 on 1 page
+[9] commonmatch num : 804 on 1 page
+[10] commonmatch num : 1024 on 1 page
+[11] commonmatch num : 794 on 1 page
+[12] commonmatch num : 782 on 1 page
+[13] commonmatch num : 784 on 1 page
+[14] commonmatch num : 770 on 1 page
+[15] commonmatch num : 790 on 1 page
+[16] commonmatch num : 771 on 1 page
+[17] commonmatch num : 765 on 1 page
+[18] commonmatch num : 787 on 1 page
+[19] commonmatch num : 786 on 1 page
+[20] commonmatch num : 766 on 1 page
+[21] commonmatch num : 776 on 1 page
+[22] commonmatch num : 647 on 1 page
+[23] commonmatch num : 647 on 1 page
